@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (JavaScript, Bootstrap, JQuery)</b>
   - [An E-commerce site that specializes on traditional clothe](https://eyerou-design.squarespace.com/config/?frameUrl=%2F)
   - [A social media platform ](https://github.com/Yahwenissi/Social-Media-Platform.git)
